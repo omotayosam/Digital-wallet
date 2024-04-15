@@ -1,4 +1,5 @@
 Digital Wallet SwiftUI UI
+
 This project is a SwiftUI implementation of a digital wallet user interface based on a Figma mockup. The UI design aims to provide a sleek and intuitive experience for managing digital assets and transactions.
 
 Preview
@@ -30,4 +31,5 @@ GitHub for hosting and enabling collaborative development.
 Feel free to customize this template to better fit your project specifics!
 
 //TODO
-there are still 4 more screens to be created
+there are still 4 more screens to be <img width="919" alt="Screenshot 2024-04-15 at 05 03 23" src="https://github.com/omotayosam/Digital-wallet/assets/37814830/0a605c55-1744-44a4-81b3-7c353982484d">
+created
